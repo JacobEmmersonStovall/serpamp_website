@@ -1,0 +1,57 @@
+@font-face {
+  font-family: pier;
+  src: url("pier-regular.otf");
+}
+
+body{
+  background-color: #50A2A7;
+  font-family: "pier";
+  color: white;
+}
+
+.form-group{
+  padding-bottom: 10px;
+}
+
+.jumbotron{
+  background-color: #46787B;
+}
+
+.page-header{
+  display: flex;
+  padding-bottom: 0px;
+  align-items: center;
+}
+
+#header-image{
+  vertical-align: text-top;
+}
+
+#header-title{
+  font-size: 45px;
+  margin-bottom: 0px;
+  padding-left: 20px;
+}
+
+#three-steps{
+  text-align: center;
+  font-size: 40px;
+}
+
+.col-sm-4{
+  text-align: center;
+  20px;
+}
+
+.glyphicon{
+  font-size: 60px;
+  text-align: center;
+}
+
+.alert{
+  position: fixed;
+  top: 0;
+  left:0;
+  right:0;
+  text-align: center;
+}
